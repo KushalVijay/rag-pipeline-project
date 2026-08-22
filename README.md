@@ -1,6 +1,8 @@
 # Web RAG Evaluator
 
 Web RAG Evaluator ingests one public webpage, answers questions from that page, and scores the RAG result. It is intentionally small enough to explain in a short tutorial.
+<img width="855" height="490" alt="image" src="https://github.com/user-attachments/assets/77f9548e-9b65-4b2c-a2b1-aa9e39473555" />
+
 
 ## Tools used
 
